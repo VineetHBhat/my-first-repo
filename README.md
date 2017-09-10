@@ -1,28 +1,18 @@
-# This is a large heading
+# Vineet Bhat
 
-## This is a smaller heading
+### Geography
+I live somewhere in the a city of somename, in the state that everyone knows here, in the republic of India.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
+None of my favourite books are:
+1. *let us C* by the author of the book
+2. *Head first python* with a kid with a specs on the cover
+3. *Introduction to GitHub* by introduced authors
 
-- This is
-- an unordered
-- list
+### Food
+- Last night I had dinner.
+- I started the morning with breakfast (ofcourse after the regular toilet stuff)
+- now I will have milk
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](http://www.wikipedia.org/).
-
-![This is an image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+The best way to get in touch with me is family  and friends/.
